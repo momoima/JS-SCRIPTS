@@ -10,4 +10,4 @@ As well as ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&log
 # NB
 Initialization of .json files was done on a personal machine
 You'll need to have those in your system as well + 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB), Mongoose & body-parser which are npm packages ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) (JS Frameworks)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB), Mongoose & body-parser which are npm packages ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  Frameworks
